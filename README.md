@@ -1,10 +1,10 @@
 # Oops-programs
-## 🎯 Objective
+##  Objective
 
 To strengthen my understanding of object-oriented programming through
 hands-on C++ coding and implementation.
 
-## 🎓 Student Details
+##  Student Details
 
 | Field | Details |
 |---|---|
